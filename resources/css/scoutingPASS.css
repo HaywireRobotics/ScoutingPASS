@@ -12,7 +12,7 @@ html, body{
     margin: 0;
     padding: 0;
     color: white;
-    background-color: black;
+    background-color: yellow;
 }
 
 #prematch_table, #postmatch_table {
@@ -156,29 +156,29 @@ h2{
 #nextButton1, #nextButton2, #nextButton9, #nextButton10, .clearForm, .submitForm, #displayButton, #copyButton {
     font-family: Alexis;
     padding: 10px;
-    background-color: rgb(151, 199, 240);
+    background-color: rgb(255, 255, 0);
     text-decoration: none;
     display: inline-block;
 }
 
 #nextButton3, #nextButton4, #nextButton5, #nextButton6, #nextButton7, #nextButton8 {
     font-family: Alexis;
-    background-color: black;
+    background-color: yellow;
     padding: 10px;
-    color: white;
+    color: black;
 }
 
 .undoButton, .flipButton {
     font-family: Alexis;
-    background-color: black;
+    background-color: yellow;
     padding: 10px;
-    color: white;
+    color: black;
     margin-left: 20px;
 }
 
 #prevButton7, #prevButton8, #prevButton9{
     font-family: Alexis;
-    background-color: rgb(151, 199, 240);
+    background-color: rgb(255, 255, 0);
     padding: 10px;
 }
 
@@ -186,7 +186,7 @@ h2{
     font-family: Alexis;
     background-color: black;
     padding: 10px;
-    color: white;
+    color: yellow;
 
 }
 
