@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2023utah",
+      "defaultValue": "2023utwv",
       "required": "true",
       "disabled": "true"
     },
