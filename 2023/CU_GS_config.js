@@ -1,7 +1,7 @@
 var config_data = `
 {
   "title": "Scouting PASS 2023",
-  "page_title": "Charged Up",
+  "page_title": "1569 Charged Up",
   "checkboxAs": "10",
   "enable_google_sheets": "true",
   "prematch": [
@@ -17,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2022carv",
+      "defaultValue": "2023utah",
       "required": "true",
       "disabled": "true"
     },
